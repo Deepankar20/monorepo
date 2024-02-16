@@ -1,6 +1,6 @@
 # Monorepo
 
-![Monorepo Logo/Icon](link_to_your_logo_or_icon_if_available)
+
 
 Welcome to Monorepo, a centralized repository containing multiple projects or packages managed together as a single unit.
 
